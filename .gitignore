@@ -262,3 +262,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+### Boot.dev ###
+# Bookbot books/ directory
+books/
