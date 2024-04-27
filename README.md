@@ -9,9 +9,9 @@ Book Bot is my first Python project on Boot.dev.
 
 **Tech used:** :snake: Python 3.12.3
 
-This project is split up into seven (7) individual functions that are intended for a specific purpose.
+This project is split up into seven (7) individual functions that are intended for a specific purpose:
 
-```main()``` is used as a starting point for the execution of Book Bot. It calls the other required functions needed to generate and print the report.
+```main()``` is the starting point for the execution of Book Bot. It sets up the required variables needed and passes them to the functions listed below to create and print out a report. This function does not accept any arguments and is automatically called when ```main.py``` is run from the command line using the ```if __name__ == "__main__"``` conditional statement.
 
 ```get_book_contents()``` 
 
@@ -32,5 +32,7 @@ This project is split up into seven (7) individual functions that are intended f
 
 
 ## Lessons Learned:
+
+WIP
 
 No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
